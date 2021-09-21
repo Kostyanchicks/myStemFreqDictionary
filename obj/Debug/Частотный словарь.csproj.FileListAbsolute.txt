@@ -1,0 +1,28 @@
+C:\Users\Constantine\Desktop\К\Частотный словарь\bin\Debug\Частотный словарь.exe.config
+C:\Users\Constantine\Desktop\К\Частотный словарь\bin\Debug\Частотный словарь.exe
+C:\Users\Constantine\Desktop\К\Частотный словарь\bin\Debug\Частотный словарь.pdb
+C:\Users\Constantine\Desktop\К\Частотный словарь\obj\Debug\Частотный словарь.csprojAssemblyReference.cache
+C:\Users\Constantine\Desktop\К\Частотный словарь\obj\Debug\Частотный словарь.csproj.CoreCompileInputs.cache
+C:\Users\Constantine\Desktop\К\Частотный словарь\obj\Debug\Частотный словарь.exe
+C:\Users\Constantine\Desktop\К\Частотный словарь\obj\Debug\Частотный словарь.pdb
+C:\Users\k.g.kostin\Desktop\К\Частотный словарь\bin\Debug\Частотный словарь.exe.config
+C:\Users\k.g.kostin\Desktop\К\Частотный словарь\bin\Debug\Частотный словарь.exe
+C:\Users\k.g.kostin\Desktop\К\Частотный словарь\bin\Debug\Частотный словарь.pdb
+C:\Users\k.g.kostin\Desktop\К\Частотный словарь\obj\Debug\Частотный словарь.csprojAssemblyReference.cache
+C:\Users\k.g.kostin\Desktop\К\Частотный словарь\obj\Debug\Частотный словарь.csproj.CoreCompileInputs.cache
+C:\Users\k.g.kostin\Desktop\К\Частотный словарь\obj\Debug\Частотный словарь.exe
+C:\Users\k.g.kostin\Desktop\К\Частотный словарь\obj\Debug\Частотный словарь.pdb
+C:\Users\Constantine\Desktop\Частотный словарь\bin\Debug\Частотный словарь.exe.config
+C:\Users\Constantine\Desktop\Частотный словарь\bin\Debug\Частотный словарь.exe
+C:\Users\Constantine\Desktop\Частотный словарь\bin\Debug\Частотный словарь.pdb
+C:\Users\Constantine\Desktop\Частотный словарь\obj\Debug\Частотный словарь.csprojAssemblyReference.cache
+C:\Users\Constantine\Desktop\Частотный словарь\obj\Debug\Частотный словарь.csproj.CoreCompileInputs.cache
+C:\Users\Constantine\Desktop\Частотный словарь\obj\Debug\Частотный словарь.exe
+C:\Users\Constantine\Desktop\Частотный словарь\obj\Debug\Частотный словарь.pdb
+C:\Program Files\Частотный словарь\bin\Debug\Частотный словарь.exe.config
+C:\Program Files\Частотный словарь\bin\Debug\Частотный словарь.exe
+C:\Program Files\Частотный словарь\bin\Debug\Частотный словарь.pdb
+C:\Program Files\Частотный словарь\obj\Debug\Частотный словарь.csprojAssemblyReference.cache
+C:\Program Files\Частотный словарь\obj\Debug\Частотный словарь.csproj.CoreCompileInputs.cache
+C:\Program Files\Частотный словарь\obj\Debug\Частотный словарь.exe
+C:\Program Files\Частотный словарь\obj\Debug\Частотный словарь.pdb
